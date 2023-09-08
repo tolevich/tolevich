@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolevich
-- 👀 I’m interested in Back-end Develop on Python, Django, SQL
-- 🌱 I’m currently learning Python, Django, SQL
+- 👀 I’m interested in Back-end Develop on Python, SQL, Async, Byte-code, FastAPI
+- 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me:
 @tolevich in telegram
 

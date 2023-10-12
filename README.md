@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tolevich
-- 👀 I’m interested in Back-end Develop on Python, SQL, Async, Byte-code, FastAPI
+- 👀 I’m interested in Develop on Python
 - 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me:
 @tolevich in telegram
